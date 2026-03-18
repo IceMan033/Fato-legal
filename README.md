@@ -1,0 +1,2 @@
+# Fato-legal
+privacy-policy
